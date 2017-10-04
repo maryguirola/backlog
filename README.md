@@ -14,6 +14,8 @@
 
 - Buscar una manera elegante, en que el menu lateral izq donde quede dividido en una parte superior, con los conceptos primarios, y una parte inferior con los items secundarios (Monitors, Configuration, Administration)
 
+- Al buscar una shared collection en el buscador del menu superior, no busca si se esta en el Dashboard. 
+
 - [Solved] ~~problemas filtrando webhooks en algunos tenants~~
 
 - [Solved] ~~En los modelos de Ecommerce no sale visible el boton de REST API~~
